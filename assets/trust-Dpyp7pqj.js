@@ -1,0 +1,1 @@
+import{O as e,t}from"./jsx-runtime-D_cfzcmR.js";import{T as n}from"./concept-chrome-C4NRL8D8.js";import{a as r}from"./concept-pages-DCRGCS0Q.js";var i=t(),a=()=>n({title:`Trust`,description:`How Evirion keeps engineering decision memory evidence-backed, reviewable, and bounded.`,path:`/trust`}),o=e(function(){return(0,i.jsx)(r,{})});export{o as default,a as meta};

@@ -1,0 +1,1 @@
+function e(e){return`/evirion-website/${e.replace(/^\/+/,``)}`}export{e as t};
