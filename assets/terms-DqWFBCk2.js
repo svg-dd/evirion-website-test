@@ -1,0 +1,1 @@
+import{O as e,t}from"./jsx-runtime-hSrSSwR0.js";import{T as n}from"./concept-chrome-BS9TlNVp.js";import{r}from"./concept-pages-BfpkfgPV.js";var i=t(),a=()=>n({title:`Terms`,description:`Terms for using the Evirion website and illustrative product material.`,path:`/terms`}),o=e(function(){return(0,i.jsx)(r,{document:`terms`})});export{o as default,a as meta};

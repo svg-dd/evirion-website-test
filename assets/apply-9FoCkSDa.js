@@ -1,0 +1,1 @@
+import{O as e,t}from"./jsx-runtime-hSrSSwR0.js";import{T as n}from"./concept-chrome-BS9TlNVp.js";import{t as r}from"./concept-pages-BfpkfgPV.js";var i=t(),a=()=>n({title:`Apply`,description:`Apply for a private Evirion design partnership for engineering decision memory.`,path:`/apply`}),o=e(function(){return(0,i.jsx)(r,{})});export{o as default,a as meta};
